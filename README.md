@@ -1,2 +1,2 @@
 # SpaceY
-Project for IBM Data Science Professinal Certificate
+Project for IBM Data Science Professional Certificate
